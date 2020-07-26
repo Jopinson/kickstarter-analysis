@@ -1,11 +1,12 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-  This is analysis is to determine the most successful kickstarter trends based on data.
+   Louise's Play was almost funded in a short amount of time, and she was curious what factors contributed to that. This anaylsis examines a wide range of successful, failed, cancelled, and live kickstarters and found launch date and goal to be key factors in determining success.  
 ### Purpose
-The purpose of this analysis is to look the most successful kickstarters and determine what factors lead to their success.
+The purpose of this analysis is to look at kickstarters and determine what factors lead to their success.
 ## Analysis and Challenges
-![Outcomes_vs_Goals](Jopinson/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
