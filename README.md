@@ -3,9 +3,9 @@
 ## Overview of Project
   This is analysis is to determine the most successful kickstarter trends based on data.
 ### Purpose
-The purpose of this analysis is to look the most successful kickstarters and determine 
+The purpose of this analysis is to look the most successful kickstarters and determine what factors lead to their success.
 ## Analysis and Challenges
-
+![image_name](path/to/image_name.png)
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
